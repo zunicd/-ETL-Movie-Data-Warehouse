@@ -16,7 +16,7 @@ We are keeping our data warehouse focused on the following subjects:
 
 ### Data Sources:
 
-We are compiling data on movies from two datasets, one from [Kaggle](https://www.kaggle.com/):
+We are compiling data on movies from two datasets from [Kaggle](https://www.kaggle.com/):
 
 [https://www.kaggle.com/rounakbanik/the-movies-dataset?select=movies_metadata.csv](https://www.google.com/url?q=https://www.kaggle.com/rounakbanik/the-movies-dataset?select%3Dmovies_metadata.csv&sa=D&ust=1590628490638000)
 
@@ -27,11 +27,11 @@ We are compiling data on movies from two datasets, one from [Kaggle](https://www
 
 
 
-and the second one from [data.world](https://data.world/):
+and
 
-https://data.world/data-society/imdb-5000-movie-dataset
+https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
 
-***Resources/movie_metadata_dw.csv*** 
+***Resources/movie_metadata_fb.csv*** 
 
 -  **Number of records:**      5,043
 -  **Number of Columns**: 28
